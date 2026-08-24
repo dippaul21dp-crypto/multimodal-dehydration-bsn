@@ -1,5 +1,20 @@
-# Dataset Information & Collection Context
+# Empirical Dehydration Study Dataset
 
-* **Origin**: Level 4, Term II (4-2) Body Sensor Network academic project.
-* **Status**: Exploratory and non-standardized dataset.
-* **Disclaimer**: Physiological readings (GSR, HR, Skin Temperature) were recorded across heterogeneous, uncalibrated testing environments for prototype verification only[cite: 1]. Values should not be treated as clinically verified baseline metrics.
+## Overview
+This dataset contains time-series physiological data gathered across a 3-hour fluid restriction protocol on 30 participants to determine algorithmic weighting for the Dehydration Hazard Index (DHI)[cite: 1].
+
+## Dataset Columns
+
+| Column Name | Data Type | Units | Description |
+| :--- | :--- | :--- | :--- |
+| `Participant_ID` | String | — | Unique identifier for each participant (`P01`–`P12`, etc.)[cite: 1] |
+| `Timepoint` | String | — | Test phase (`Baseline`, `1_Hour`, `2_Hours`, `3_Hours`)[cite: 1] |
+| `Duration_Hours` | Integer | Hours | Elapsed time in dehydration trial ($0, 1, 2, 3$)[cite: 1] |
+| `Skin_Conductance_uS` | Float | $\mu\text{S}$ | Electrodermal skin conductance measured via GSR[cite: 1] |
+| `Skin_Temperature_C` | Float | °C | Surface skin temperature recorded via DS18B20 probe[cite: 1] |
+| `Heart_Rate_BPM` | Integer | BPM | Pulse rate extracted from PPG signal[cite: 1] |
+
+## Data Collection Context & Disclaimer
+* **Academic Setting**: Collected as part of an undergraduate Level 4, Term II (4-2) academic coursework project in Biomedical Engineering at CUET[cite: 1].
+* **Exploratory Status**: Readings were recorded under prototype laboratory testing conditions without clinical reference standards (such as blood osmolarity or urine specific gravity)[cite: 1].
+* **Purpose**: Calibration and validation of relative sensor fusion dynamics only[cite: 1].
