@@ -7,8 +7,8 @@
 
 A wearable Body Sensor Network (BSN) designed to evaluate clinical hydration status in real time using edge-computed sensor fusion. By combining cardiovascular, thermal, and electrodermal biosignals on an Arduino Uno edge node, the system computes a continuous **Dehydration Hazard Index (DHI)** and broadcasts real-time diagnostic telemetry via Bluetooth.
 > ### ⚠️ Academic Project Context
-> This repository documents an undergraduate **Level 4, Term II (4-2)** academic project on **Body Sensor Networks (BSN)** completed at the Department of Biomedical Engineering, CUET[cite: 1].
-> * **Data Limitations**: Sensor readings and empirical records were gathered in varied, exploratory conditions for prototype demonstration[cite: 1]. The data has **not been clinically validated** against medical gold standards (e.g., blood osmolarity or urine specific gravity)[cite: 1].
+> This repository documents an undergraduate **Level 4, Term II (4-2)** academic project on **Body Sensor Networks (BSN)** completed at the Department of Biomedical Engineering, CUET.
+> * **Data Limitations**: Sensor readings and empirical records were gathered in varied, exploratory conditions for prototype demonstration. The data has **not been clinically validated** against medical gold standards (e.g., blood osmolarity or urine specific gravity).
 > * **Publication Status**: This work is an unpublished engineering proof-of-concept and is intended solely for educational, portfolio, and prototyping reference.
 
 ## System Architecture
@@ -130,5 +130,5 @@ Install the following via the Arduino IDE Library Manager (**Sketch** $\rightarr
 
 ## Authors
 
-* **Sifat Chowdhury** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011015@cuet.ac.bd](mailto:u2011015@student.cuet.ac.bd)
-* **Dip Paul** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011025@cuet.ac.bd](mailto:u2011025@student.cuet.ac.bd)
+* **Sifat Chowdhury** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011015@student.cuet.ac.bd](mailto:u2011015@student.cuet.ac.bd)
+* **Dip Paul** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011025@student.cuet.ac.bd](mailto:u2011025@student.cuet.ac.bd)
