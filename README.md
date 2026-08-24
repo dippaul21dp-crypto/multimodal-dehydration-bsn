@@ -6,6 +6,10 @@
 [![Protocol: I2C | 1-Wire | SoftSerial](https://img.shields.io/badge/Protocols-I2C%20%7C%201--Wire%20%7C%20UART-brightgreen.svg)]()
 
 A wearable Body Sensor Network (BSN) designed to evaluate clinical hydration status in real time using edge-computed sensor fusion. By combining cardiovascular, thermal, and electrodermal biosignals on an Arduino Uno edge node, the system computes a continuous **Dehydration Hazard Index (DHI)** and broadcasts real-time diagnostic telemetry via Bluetooth.
+> ### ⚠️ Academic Project Context
+> This repository documents an undergraduate **Level 4, Term II (4-2)** academic project on **Body Sensor Networks (BSN)** completed at the Department of Biomedical Engineering, CUET[cite: 1].
+> * **Data Limitations**: Sensor readings and empirical records were gathered in varied, exploratory conditions for prototype demonstration[cite: 1]. The data has **not been clinically validated** against medical gold standards (e.g., blood osmolarity or urine specific gravity)[cite: 1].
+> * **Publication Status**: This work is an unpublished engineering proof-of-concept and is intended solely for educational, portfolio, and prototyping reference.
 
 ## System Architecture
 
