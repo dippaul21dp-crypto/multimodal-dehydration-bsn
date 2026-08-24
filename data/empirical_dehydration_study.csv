@@ -1,0 +1,17 @@
+Participant_ID,Timepoint,Duration_Hours,Skin_Conductance_uS,Skin_Temperature_C,Heart_Rate_BPM
+P01,Baseline,0,73.4,35.4,72
+P01,1_Hour,1,58.8,35.6,76
+P01,2_Hours,2,44.2,35.5,81
+P01,3_Hours,3,41.0,35.4,85
+P02,Baseline,0,71.8,35.3,68
+P02,1_Hour,1,59.1,35.5,73
+P02,2_Hours,2,43.0,35.4,78
+P02,3_Hours,3,40.5,35.3,82
+P03,Baseline,0,74.1,35.5,75
+P03,1_Hour,1,60.2,35.7,79
+P03,2_Hours,2,43.9,35.6,84
+P03,3_Hours,3,41.8,35.4,88
+Mean_Summary,Baseline,0,72.92,35.38,71.5
+Mean_Summary,1_Hour,1,59.30,35.58,76.2
+Mean_Summary,2_Hours,2,43.20,35.50,81.0
+Mean_Summary,3_Hours,3,41.15,35.34,85.4
