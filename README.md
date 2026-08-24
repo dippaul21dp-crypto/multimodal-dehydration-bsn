@@ -126,5 +126,5 @@ Install the following via the Arduino IDE Library Manager (**Sketch** $\rightarr
 
 ## Authors
 
-* **Sifat Chowdhury** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011015@cuet.ac.bd](mailto:u2011015@cuet.ac.bd)
-* **Dip Paul** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011025@cuet.ac.bd](mailto:u2011025@cuet.ac.bd)
+* **Sifat Chowdhury** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011015@cuet.ac.bd](mailto:u2011015@student.cuet.ac.bd)
+* **Dip Paul** - *Department of Biomedical Engineering, Chittagong University of Engineering & Technology (CUET)* - [u2011025@cuet.ac.bd](mailto:u2011025@student.cuet.ac.bd)
