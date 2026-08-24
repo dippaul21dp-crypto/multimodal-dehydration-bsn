@@ -1,0 +1,5 @@
+# Dataset Information & Collection Context
+
+* **Origin**: Level 4, Term II (4-2) Body Sensor Network academic project.
+* **Status**: Exploratory and non-standardized dataset[cite: 1].
+* **Disclaimer**: Physiological readings (GSR, HR, Skin Temperature) were recorded across heterogeneous, uncalibrated testing environments for prototype verification only[cite: 1]. Values should not be treated as clinically verified baseline metrics.
