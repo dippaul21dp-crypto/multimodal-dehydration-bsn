@@ -3,13 +3,9 @@
  * Project: Wearable Body Sensor Network for Real-Time Dehydration Monitoring
  * Context: Level 4, Term II (4-2) Academic Coursework Project (BME, CUET)
  * Status : Unpublished Academic Prototype
- * 
- * Note:
- * This firmware and the associated DHI algorithm are exploratory proofs of concept.
- * Physiological thresholds and metrics have not been validated against clinical 
- * gold-standard parameters and are intended solely for academic demonstration.
  * ==============================================================================
  */
+
 #include <Wire.h>
 #include <SoftwareSerial.h>
 #include <OneWire.h>
